@@ -1,0 +1,4 @@
+.gallery {
+    border: 2px solid black; /* You can adjust the width and color of the border */
+    border-radius: 5px; /* Optional: Adds rounded corners to the border */
+}
